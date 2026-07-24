@@ -1,2 +1,11 @@
 # Data-Engineering-Journey
-My Journey from beginner to Data engineer. Learning SQL, Python, Azure, Pyspark, Databricks, and Data engineering concepts.
+
+This repository contains my Data engineering learning journey.
+
+#Topics covered
+
+## Day-1
+- What is Data?
+- Data vs information
+- Data Lifecycle
+- Role of Data engineer
